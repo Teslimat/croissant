@@ -1,0 +1,30 @@
+body{
+    background: #f8e8a6;
+    margin-top: 30px;
+}
+
+h1{
+    text-align: center;
+    font-weight: 700;
+}
+
+p{
+    text-align: center;
+    font-size: 14px;
+}
+
+a{
+    color: green;
+    cursor: pointer;
+    margin: 0 10px;
+    font-weight: 500;
+}
+
+.links{
+    display: block;
+    text-align: center;
+}
+
+.email-link{
+    color: blue;
+}
